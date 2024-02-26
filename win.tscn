@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://beal5ey0urjvt"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_right = 1146.0
+offset_bottom = 644.0
+color = Color(0.0235294, 0.0235294, 0.0235294, 1)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 256.0
+offset_top = 307.0
+offset_right = 826.0
+offset_bottom = 376.0
+theme_override_font_sizes/font_size = 50
+text = "Você venceu, parábens!"
